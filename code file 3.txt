@@ -1,1 +1,4 @@
 Donec auctor rhoncus faucibus. Mauris porttitor quam fermentum, dapibus justo ut, faucibus justo. Praesent nec risus diam. Sed finibus justo tellus, eget convallis urna cursus in. Vestibulum ac vulputate mauris, vitae convallis velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla vel nunc hendrerit, pretium massa eleifend, blandit enim. Nullam sed luctus magna, at auctor est.
+
+update price advisor wedge 1
+qa bug fix
