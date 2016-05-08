@@ -7,3 +7,5 @@ qa bug fixing
 birff bug fix
 minor layout revision
 birf code review updates
+
+change boosting value
